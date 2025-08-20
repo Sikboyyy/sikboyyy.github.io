@@ -29,3 +29,9 @@ redirect_from:
     *   **사용 기술:** Unity, C#, Git, GitHub
     *   **GitHub:** [https://github.com/Sikboyyy/rocket_odyssey](https://github.com/Sikboyyy/rocket_odyssey)
 ---
+
+### 학력 및 교육 (Education & Courses)
+
+*   유원대학교 AI소프트웨어학과 (2020.03.01 ~ 현재, 2026.02 졸업예정)
+*   K-Digital Training (2025.07.08 ~ 2025.12.31)
+---
