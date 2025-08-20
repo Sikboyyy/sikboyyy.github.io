@@ -20,3 +20,12 @@ redirect_from:
 *   **Frameworks:** React
 *   **Tools:** Git
 ---
+
+### Projects
+
+*   **Rocket Odyssey (팀 프로젝트)**
+    *   **설명:** Unity 엔진을 활용하여 개발한 로켓 조종 아케이드 게임입니다.
+    *   **역할:** Script 작성, Asset 배치, Scene 제작, Sound 설정
+    *   **사용 기술:** Unity, C#, Git, GitHub
+    *   **GitHub:** [https://github.com/Sikboyyy/rocket_odyssey](https://github.com/Sikboyyy/rocket_odyssey)
+---
